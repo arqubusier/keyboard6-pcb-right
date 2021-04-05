@@ -1,0 +1,3 @@
+[submodule "keyboard6-pcb-common"]
+	path = keyboard6-pcb-common
+	url = git@github.com:arqubusier/keyboard6-pcb-common.git
