@@ -1,0 +1,31 @@
+Component,Description,Part,References,Value,Footprint,Quantity Per PCB,Datasheet,Manufacturer Part Number,Mouser Part Number
+1,Unpolarized capacitor,C,C1 C5,32p,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,2,~,GQM2195C2E320JB12D,81-GQM2195C2E320JB2D
+2,Unpolarized capacitor,C,C3 C6 C8 C9 C10 C11 C12 C13,0.1u,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,8,~,C0805X104M5RACTU,80-C0805X104M5RACTU
+3,Unpolarized capacitor,C,C2 C7,1u,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,2,~,C0805X104M5RACTU,80-C0805X104M5RACTU
+4,Unpolarized capacitor,C,C4,10u,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,1,~,JMF212AB7106KGHT,963-JMF212AB7106KGHT
+5,Diode,D,D1 D2 D3 D4 D5 D6 D7 D8 D9 D10 D11 D12 D13 D14 D15 D16 D17 D18 D19 D20 D21 D22 D23 D24 D25 D26 D27 D28 D29,DIODE,D_SOD-323_HandSoldering,29,~,1N4148WX-TP,833-1N4148WX-TP
+6,Fuse,Fuse,F1,500m,Fuse_0603_1608Metric,1,~,TR-0603HV500-R,504-TR-0603HV500-R
+7,"Audio Jack, 4 Poles (TRRS)",AudioJack4,J1,AudioJack4,TRRS_smd_SparkFun_PRT-12639,1,~,PRT-12639,474-PRT-12639
+8,USB Micro Type B connector,USB_B_Micro,J2,USB_B_Micro,USB_mini_b_TE_ 1734035-2,1,~,1734035-2,571-1734035-2
+9,Resistor,R,R2 R3,22,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,2,~,CR0805-FX-22R0ELF,652-CR0805FX-22R0ELF
+10,Resistor,R,R1,4.7k,R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,1,~,CRCW08054K70JNEA,71-CRCW0805J-4.7K-E3
+11,"1x DIP Switch, Single Pole Single Throw (SPST) switch, small symbol",SW_DIP_x01,SW1 SW2 SW3 SW4 SW5 SW6 SW7 SW8 SW9 SW10 SW11 SW12 SW13 SW14 SW15 SW16 SW17 SW18 SW19 SW20 SW21 SW22 SW23 SW24 SW25 SW26 SW27 SW28 SW29,SW_DIP_x01,SW_Cherry_MX_1.00u_PCB_centered,29,~,MX1A-G1NN,540-MX1A-G1NN
+12,"Push button switch, generic, symbol, four pins",SW_Push_Dual,SW30,SW_Push_Dual,SW_E_SW_TL_3303,1,~,TL3303F160QG,612-TL3303F160QG
+13,"Two pin crystal, small symbol",Crystal_Small,Y1,16MHz,Crystal_CSM-7X_SMD,1,~,CX3225SB16000E0FPKCC,581-CX3225SB16000EPK
+14,"16MHz, 32kB Flash, 2.5kB SRAM, 1kB EEPROM, USB 2.0, TQFP-44",ATmega32U4-AU,mcu1,ATmega32U4-AU,QFP-44_10x10_Pitch0.8mm_Hand_solder,1,http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf,,
+
+
+
+
+
+Component Groups:,14
+Component Count:,80
+Fitted Components:,80
+Number of PCBs:,1
+Total components:,80
+Schematic Version:,
+Schematic Date:,
+PCB Variant:,default
+BoM Date:,Sat 24 Apr 2021 07:28:50 PM CEST
+Schematic Source:,right.sch
+KiCad Version:,Eeschema 5.1.9
